@@ -1,0 +1,6 @@
+[submodule "bus_notify"]	#子模块名称
+	path = bus_notify		#存放子模块的地址
+	url = https://github.com/lanshiqin/bus_notify.git
+[submodule "gopl.io"]	#子模块名称
+	path = gopl.io		#存放子模块的地址
+	url = https://github.com/adonovan/gopl.io.git
