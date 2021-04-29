@@ -4,3 +4,6 @@
 [submodule "gopl.io"]	#子模块名称
 	path = gopl.io		#存放子模块的地址
 	url = https://github.com/adonovan/gopl.io.git
+[submodule "jiacrontab"]
+	path = jiacrontab
+	url = https://github.com/iwannay/jiacrontab.git
