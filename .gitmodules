@@ -7,3 +7,6 @@
 [submodule "jiacrontab"]
 	path = jiacrontab
 	url = https://github.com/iwannay/jiacrontab.git
+[submodule "jiacrontab-frontend"]
+	path = jiacrontab-frontend
+	url = https://github.com/jiacrontab/jiacrontab-frontend.git
